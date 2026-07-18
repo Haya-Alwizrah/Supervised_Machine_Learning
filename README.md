@@ -10,7 +10,6 @@ Each project follows a complete machine learning workflow, including:
 - Data preprocessing
 - Model implementation
 - Model evaluation
-- Feature importance analysis
 
 ## Repository Structure
 
